@@ -4,7 +4,6 @@ A modern, feature-rich music streaming and playlist management application built
 
 ![Angular](https://img.shields.io/badge/Angular-21.1.0-red?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-blue?style=flat-square&logo=typescript)
-![License](https://img.shields.io/badge/license-Private-lightgrey?style=flat-square)
 
 ## ✨ Features
 
@@ -119,7 +118,7 @@ This will compile your project and store the optimized build artifacts in the `d
 To customize the application with your own music data, artists, and playlists, please refer to the [CUSTOMIZATION-GUIDE.md](./CUSTOMIZATION-GUIDE.md) file, which includes detailed instructions on:
 
 - Adding songs to the library
-- Configuring artist information and images
+- Configuring artist information
 - Creating and managing playlists
 - Setting up the music player
 - Understanding data model parameters
@@ -162,20 +161,16 @@ Run unit tests using Vitest:
 ng test
 ```
 
-The project uses [Vitest](https://vitest.dev/) as the test runner, which provides a fast and modern testing experience.
 
 ## 🛠️ Technologies Used
 
 ### Core Framework
 - **Angular 21.1.0**: Modern web application framework
 - **TypeScript 5.9.2**: Type-safe JavaScript superset
-- **RxJS 7.8.0**: Reactive programming library
 
 ### Development Tools
 - **Angular CLI 21.1.0**: Command-line interface for Angular
 - **Prettier**:  Code formatting
-- **Vitest 4.0.8**: Unit testing framework
-- **jsdom 27.1.0**: DOM implementation for testing
 
 ## 🎯 Roadmap
 
@@ -202,30 +197,11 @@ Contributions are welcome! If you'd like to contribute to this project:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is private and not currently licensed for public use.
-
 ## 👤 Author
 
-**Darain-Brit-A**
-- GitHub: [@Darain-Brit-A](https://github.com/Darain-Brit-A)
-- 
+- Github: [Nihitha](https://github.com/Nihitha47)
+- GitHub: [Darain](https://github.com/Darain-Brit-A)
+- GitHub: [Praveen](https://github.com/2326praveen)
+- GitHub: [Anush]()
 
-## 🙏 Acknowledgments
 
-- Angular team for the excellent framework
-- Inspiration from modern music streaming platforms like Spotify
-- Icons and design patterns from Material Design
-
-## 📞 Support
-
-If you encounter any issues or have questions: 
-
-1. Check the [CUSTOMIZATION-GUIDE.md](./CUSTOMIZATION-GUIDE.md) for common setup questions
-2. Open an issue in the GitHub repository
-3. Contact the repository owner
-
----
-
-**Built with ❤️ using Angular 21**
